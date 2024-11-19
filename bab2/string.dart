@@ -4,7 +4,7 @@ String reverseString(String s) {
     result += s[i];
   }
   return result;
-}
+} 
 
 void main() {
   String s = 'bambang';
